@@ -1,1 +1,12 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dildosti.cafe",
+      "sha256_cert_fingerprints": [
+        "76:7F:89:65:C5:9B:62:EE:9B:41:57:07:A4:77:77:2F:6B:83:E5:B8:AE:A7:C7:1B:1B:5A:A6:43:6E:CA:47:5D"
+      ]
+    }
+  }
+]
